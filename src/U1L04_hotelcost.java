@@ -15,7 +15,7 @@ public class U1L04_hotelcost {
 		int hiltonGV = 200;
 		int sherton = 150;
 		int gardenInn = 500;
-		
+		//blah
 		int costHGV = hiltonGV * nights;
 		int costS = sherton * nights;
 		int costGI = gardenInn * nights;
